@@ -9,7 +9,6 @@ A kanban board with full authorization.
   <li><a href="#Installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#license">License</a></li>
-  <li><a href="#Deployed Website">Deployed Website</a></li>
 </ol>
   
 
@@ -32,8 +31,6 @@ Or go to this website https://candidate-search-85yq.onrender.com/
 
 ## License
 Distributed under the MIT. See https://opensource.org/license/mit for more information
-
-## Deployed Website
 
 
   
