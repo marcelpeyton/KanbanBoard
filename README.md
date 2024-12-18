@@ -26,8 +26,8 @@ Place the .env in at the root of the project
 
 ## Usage
 To use:
-```npm start:dev```
-Or go to this website https://candidate-search-85yq.onrender.com/
+```npm run start```
+
 
 ## License
 Distributed under the MIT. See https://opensource.org/license/mit for more information
